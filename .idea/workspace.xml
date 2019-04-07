@@ -2,21 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="023d250b-4b7f-48da-b05b-991a0946d2fc" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mobile/css/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mobile/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mobile/js/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/css/custom.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/css/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/css/jquery.fancybox.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/fonts/NotoSerif-Bold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/fonts/NotoSerif-BoldItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/fonts/NotoSerif-Italic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/fonts/NotoSerif-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/GettyImages-1085475500-large.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/js/jquery-1.9.1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/js/jquery.fancybox.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/mobile/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -33,8 +20,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mobile/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
-              <caret line="13780" column="111" lean-forward="true" selection-start-line="13779" selection-start-column="19" selection-end-line="13780" selection-end-column="111" />
+            <state relative-caret-position="697">
+              <caret line="176" column="4" selection-start-line="176" selection-start-column="4" selection-end-line="176" selection-end-column="82" />
               <folding>
                 <element signature="e#315915#315971#0" expanded="true" />
                 <element signature="e#316034#316052#0" expanded="true" />
@@ -1790,8 +1777,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/web/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="460">
-              <caret line="13780" column="73" selection-start-line="13780" selection-start-column="73" selection-end-line="13780" selection-end-column="73" />
+            <state relative-caret-position="302">
+              <caret line="176" column="82" selection-start-line="176" selection-start-column="82" selection-end-line="176" selection-end-column="82" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#figure#0;n#section#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#svg#0;n#div#0;n#section#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -5110,7 +5097,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12775000" />
+    <option name="totallyTimeSpent" value="13052000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1928" y="-8" width="1936" height="1096" extended-state="6" />
@@ -8407,8 +8394,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/mobile/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="13780" column="111" lean-forward="true" selection-start-line="13779" selection-start-column="19" selection-end-line="13780" selection-end-column="111" />
+        <state relative-caret-position="697">
+          <caret line="176" column="4" selection-start-line="176" selection-start-column="4" selection-end-line="176" selection-end-column="82" />
           <folding>
             <element signature="e#315915#315971#0" expanded="true" />
             <element signature="e#316034#316052#0" expanded="true" />
@@ -10117,8 +10104,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/web/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="13780" column="73" selection-start-line="13780" selection-start-column="73" selection-end-line="13780" selection-end-column="73" />
+        <state relative-caret-position="302">
+          <caret line="176" column="82" selection-start-line="176" selection-start-column="82" selection-end-line="176" selection-end-column="82" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#figure#0;n#section#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#svg#0;n#div#0;n#section#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
