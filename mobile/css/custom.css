@@ -94,6 +94,7 @@ p {
 }
 .sapo {
     margin-top: 30px;
+    text-align: center;
 }
 .title {
     width: 100%;
@@ -116,4 +117,8 @@ p {
 .twma-img {
     width: 100%;
     margin-bottom: 5px;
+}
+
+.dvz-content .full-vid-wrap {
+    max-height: unset;
 }
